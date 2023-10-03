@@ -1,0 +1,14 @@
+D:\learning\C#\visual studio\loops\bin\Debug\net6.0\loops.exe
+D:\learning\C#\visual studio\loops\bin\Debug\net6.0\loops.deps.json
+D:\learning\C#\visual studio\loops\bin\Debug\net6.0\loops.runtimeconfig.json
+D:\learning\C#\visual studio\loops\bin\Debug\net6.0\loops.dll
+D:\learning\C#\visual studio\loops\bin\Debug\net6.0\loops.pdb
+D:\learning\C#\visual studio\loops\obj\Debug\net6.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\C#\visual studio\loops\obj\Debug\net6.0\loops.AssemblyInfoInputs.cache
+D:\learning\C#\visual studio\loops\obj\Debug\net6.0\loops.AssemblyInfo.cs
+D:\learning\C#\visual studio\loops\obj\Debug\net6.0\loops.csproj.CoreCompileInputs.cache
+D:\learning\C#\visual studio\loops\obj\Debug\net6.0\loops.dll
+D:\learning\C#\visual studio\loops\obj\Debug\net6.0\refint\loops.dll
+D:\learning\C#\visual studio\loops\obj\Debug\net6.0\loops.pdb
+D:\learning\C#\visual studio\loops\obj\Debug\net6.0\loops.genruntimeconfig.cache
+D:\learning\C#\visual studio\loops\obj\Debug\net6.0\ref\loops.dll
